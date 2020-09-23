@@ -1,4 +1,4 @@
-# beejs-demo
+# beeJS - Simple API demo
 Simple project API demo using the beeJS framework.
 
 ## Install
